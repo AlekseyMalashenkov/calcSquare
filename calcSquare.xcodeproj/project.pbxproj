@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					74B5AE9E1D8D66E6002CECA1 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = H4GYQZ7PT2;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,9 +259,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = H4GYQZ7PT2;
 				INFOPLIST_FILE = calcSquare/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.calcSquare;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aleksey.calcSquare;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -270,9 +272,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = H4GYQZ7PT2;
 				INFOPLIST_FILE = calcSquare/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.calcSquare;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aleksey.calcSquare;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -297,6 +300,7 @@
 				74B5AEB31D8D66E6002CECA1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
